@@ -1,0 +1,3 @@
+/cygdrive/c/Users/Александр/CLionProjects/AVS_DZ2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/Александр/CLionProjects/AVS_DZ2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/Александр/CLionProjects/AVS_DZ2/cmake-build-debug/CMakeFiles/AVS_DZ2.dir
